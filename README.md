@@ -21,7 +21,19 @@ Welcome to the VR Furniture App! This innovative application allows users to exp
 
 ## Video Demo
 
-Here are two GIFs demonstrating the app in action:
+Here are two GIFs demonstrating the app in action: (Video quality has been compressed to include in README)
 
-![Add furnitures to your home](link-to-gif1)  
-![Try on different textures and orientation](link-to-gif2)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cee6bab4-dd33-4f62-a8bf-ae03a3cf3157" alt="First GIF" width="400"/>
+      <br/>
+      Add furnitures to your home 
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/488430e4-1853-4474-93be-3c5c0cf2e27e" alt="Second GIF" width="400"/>
+      <br/>
+      Try on different textures and orientation 
+    </td>
+  </tr>
+</table>
