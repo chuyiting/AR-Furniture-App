@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed6fb9ce579ed437a8979628338af919, type: 3}
+  m_Name: drying_with_towel
+  m_EditorClassIdentifier: 
+  furnitureName: drying_with_towel
+  itemPrefab: {fileID: 110147102346296010, guid: f4fdc46dac23e4d788f3135a13118143,
+    type: 3}
+  itemImage: {fileID: 21300000, guid: 7dc698674cb434f8b8a570175e197a23, type: 3}

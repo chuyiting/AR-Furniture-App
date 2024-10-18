@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DataHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FurnitureSelectionInteractable.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.0.0-pre.7/Runtime/AR/Interactables/ARSelectionInteractable.cs" />
+      <File FileName="Assets/Scripts/DataHandler.cs" Line="182" Column="42" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="76" Column="6" />
+      <File FileName="Assets/Scripts/UIContentFitter.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/DeleteButton.cs" />
+      <File FileName="Assets/Scripts/ButtonManager.cs" />
+      <File FileName="Assets/Scripts/TextureButton.cs" />
+      <File FileName="Assets/Scripts/Item.cs" />
+      <File FileName="Assets/Scripts/PreviewButton.cs" />
+      <File FileName="Assets/Scripts/CategoryButton.cs" />
+      <File FileName="Assets/Scripts/MenuButton.cs" />
+      <File FileName="Assets/Scripts/FurnitureControl.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DataHandler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be166ef7-ce7d-4b95-b02c-c0e194460cda" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
